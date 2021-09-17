@@ -1,2 +1,2 @@
 # SQL
-Please check documentation file inside a folder
+Please check PDF file inside a folder
