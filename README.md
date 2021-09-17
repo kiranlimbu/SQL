@@ -1,2 +1,2 @@
 # SQL
-Please check PDF file inside a folder
+Please check PDF file more detail on each project.
